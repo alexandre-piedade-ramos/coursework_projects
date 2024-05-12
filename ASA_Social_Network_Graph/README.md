@@ -7,7 +7,7 @@ Here p2V7 used a c++ set (rb tree) representation of adjacencies and p2v9 uses a
 ![alt text](./images/a7.png)
 
 Switching p2V7 to an unordered set representation got me:\
-![alt text](./images/b8.png)
+![alt text](./images/b8.png)\
 ![alt text](./images/b2.png)\
 \
 The reallyMassive test has 117mb worth of edges and vertices as raw text, but it was still surprising how much ram running it required.
