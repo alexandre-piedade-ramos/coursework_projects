@@ -1,2 +1,2 @@
-This repo is for coursework projects I enjoyed working on. 
-For the details of the projects, see the project_requirements document for each subdirectory.
+This repo is an archive for coursework projects I enjoyed working on.\
+For the details each project, see the project_requirements document in each subdirectory.
