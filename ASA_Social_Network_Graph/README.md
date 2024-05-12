@@ -5,6 +5,7 @@ Here p2V7 used a c++ set (rb tree) representation of adjacencies and p2v9 uses a
 ![alt text](./images/a1.png)
 ![alt text](./images/b3.png)
 ![alt text](./images/a7.png)
+
 Switching p2V7 to an unordered set representation got me:
 ![alt text](./images/b8.png)
 ![alt text](./images/b2.png)\
