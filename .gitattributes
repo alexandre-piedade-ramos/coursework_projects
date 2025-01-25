@@ -1,6 +1,0 @@
-#Don't include the libs used
-/home/alexandre/Documents/facul/coursework_projects/HCI_Dense_Interface/* linguist-vendored
-/home/alexandre/Documents/facul/coursework_projects/HCI_Dense_Interface/sketch.js linguist-detectable
-/home/alexandre/Documents/facul/coursework_projects/HCI_Dense_Interface/support.js linguist-detectable
-/home/alexandre/Documents/facul/coursework_projects/HCI_Dense_Interface/target.js linguist-detectable
-
