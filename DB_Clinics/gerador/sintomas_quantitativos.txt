@@ -1,0 +1,21 @@
+Hgb_g_por_dL, 11.04, 20.64 
+Hct_porcentagem, 32.56, 60.36   
+WBC_cells_por_uL, 3600, 13200
+Platelets_por_uL, 120000, 540000
+Glucose_mg_por_dL, 56, 118.8   
+Calcium_mg_por_dL, 6.8, 12.24  
+Sodium_mEq_por_L, 108, 174     
+Potassium_mEq_por_L, 2.88, 6.24
+Chloride_mEq_por_L, 76.8, 127.2
+Bicarbonate_mEq_por_L, 17.6, 34.8
+BUN_mg_por_dL, 5.6, 24
+Creatinine_mg_por_dL, 0.592, 1.62
+Cholesterol_mg_por_dL, 0, 240
+LDL_mg_por_dL, 0, 120
+HDL_mg_por_dL, 32, 700
+Triglycerides_mg_por_dL, 0, 180
+TSH_mIU_por_L, 0.32, 4.8
+FreeT4_ng_por_dL, 0.64, 2.16
+ALT_unidades_por_L, 5.6, 67.2
+AST_unidades_por_L, 8, 48
+pressão diastólica, 2.50, 10.00
